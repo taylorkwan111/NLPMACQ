@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="322b299b-8b7a-469c-ba7c-f4493ea9d3bc" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/config/dream.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_dream2squad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/RACE/predictions_dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/RACE/predictions_test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/RACE/predictions_train.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocess.sh" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618996514787</updated>
-      <workItem from="1618996518076" duration="21319000" />
+      <workItem from="1618996518076" duration="22177000" />
     </task>
     <servers />
   </component>
